@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm FlintLeng
 
-<!--
-**FlintLeng/FlintLeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech & Projects
 
-Here are some ideas to get you started:
+- 🔗 [RustChain](https://github.com/Scottcjn/Rustchain) — Proof-of-Antiquity blockchain
+- [![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+- [![RustChain Miner](https://img.shields.io/badge/RustChain-Miner-green)](https://github.com/Scottcjn/Rustchain)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Contributions
+
+### Elyan Labs & RustChain Ecosystem
+- RustChain MCP Server contributions
+- GitHub Actions for RTC reward automation
+- LangChain tool integration for RustChain
+- Awesome-lists and community documentation
