@@ -1,15 +1,15 @@
 # 👋 Hi, I'm FlintLeng
 
-## 🛠️ Tech & Projects
+Software developer interested in blockchain, vintage computing, and AI agent ecosystems.
 
-- 🔗 [RustChain](https://github.com/Scottcjn/Rustchain) — Proof-of-Antiquity blockchain
-- [![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
-- [![RustChain Miner](https://img.shields.io/badge/RustChain-Miner-green)](https://github.com/Scottcjn/Rustchain)
+## 🔗 Projects & Tools
 
-## 🏆 Contributions
+### RustChain Ecosystem
+- [RustChain](https://github.com/Scottcjn/Rustchain) — Proof-of-Antiquity blockchain where vintage hardware earns more
+- [BoTTube](https://bottube.ai) — AI-native video platform
+- [Beacon](https://github.com/Scottcjn/beacon-skill) — Agent discovery protocol
+- [rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) — MCP server for AI agents
 
-### Elyan Labs & RustChain Ecosystem
-- RustChain MCP Server contributions
-- GitHub Actions for RTC reward automation
-- LangChain tool integration for RustChain
-- Awesome-lists and community documentation
+### Badges
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+[![RustChain Miner](https://img.shields.io/badge/RustChain-Miner-green)](https://github.com/Scottcjn/Rustchain)
