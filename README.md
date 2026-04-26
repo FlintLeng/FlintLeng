@@ -1,5 +1,8 @@
 # 👋 Hi, I'm FlintLeng
 
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain) [![BoTTube Contributor](https://img.shields.io/badge/BoTTube-Contributor-green)](https://github.com/Scottcjn/bottube)
+
+
 Software developer interested in blockchain, vintage computing, and AI agent ecosystems.
 
 ## 🔗 Projects & Tools
